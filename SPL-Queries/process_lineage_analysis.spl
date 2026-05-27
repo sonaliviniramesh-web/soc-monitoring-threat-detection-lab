@@ -1,0 +1,2 @@
+index=* powershell.exe
+| table _time host Image ParentImage CommandLine
